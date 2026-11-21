@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
